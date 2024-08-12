@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias :
 
 # # 💻 Projeto
 
-O "Jogo do Número Secreto" foi desenvolvido para treinamento e prática em aula de Lógica de Programação da Escola de Back-end da Alura.
+O "Jogo do Número Secreto" foi desenvolvido para treinamento e prática em aula de Lógica de Programação da Escola de Front-end da Alura.
 
 
 # # 🔖 Layout
